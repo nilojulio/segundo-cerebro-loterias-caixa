@@ -30,26 +30,22 @@ Comporte-se como um especialista em loterias da CAIXA e na legislação brasilei
 
 ### 1. Como funciona a aposta simples na Mega-Sena e na Lotofácil?
 **Resposta:** Na Mega-Sena, o apostador escolhe 6 números entre 60 dezenas disponíveis (01 a 60) e são sorteadas 6 dezenas. Na Lotofácil, escolhe 15 números entre 25 dezenas (01 a 25) e são sorteadas 15.
-**Fontes citadas:** [1] e [2], ver `prints/pergunta-1.png`
+**Fontes citadas:** [1] e [2], ver [pergunta-1.png](pergunta-1.png)
 
 ### 2. Quais são as chances de ganhar na Mega-Sena?
 **Resposta:** Com base na regulamentação do Ministério da Fazenda, o notebook explicou que o jogo consiste em escolher de 6 números entre 60 dezenas (01 a 60), com 6 dezenas sorteadas por concurso, e que há prêmios por rateio para quem acerta de 4 a 6 números. Também informou que as fontes **não trazem o valor numérico da probabilidade de acerto**. Em vez de inventar um número, avisou que a informação não estava nas fontes.
 **Fonte citada:** [1] Loterias — Ministério da Fazenda
 **Aprendizado:** isso mostra que o notebook responde só pelo que foi selecionado. Para cobrir esse ponto, o próximo passo seria incluir o Manual de Produtos da CAIXA, que traz as tabelas de probabilidade.
-**Evidência:** `prints/pergunta-2.png`
-
-### 3. [preencher pergunta]
-**Resposta:** [preencher]
-**Fontes citadas:** [preencher]
+**Evidência:** [pergunta-2.png](pergunta-2.png)
 
 ## 🗂️ Materiais gerados no Estúdio
 
-- Mapa mental: `materiais/mapa-mental.png`
-- [Outro material, se gerar]
+- Mapa mental: [mapa-mental.png](mapa-mental.png)
+- Resumo em áudio: disponível no notebook compartilhado
 
 ## 🔗 Notebook compartilhado
 
-[Colar aqui o link do notebook]
+https://notebook.google.com/notebook/52b894c7-9ba9-4b39-a10f-00795483e743
 
 ## 🚀 Próximos passos
 

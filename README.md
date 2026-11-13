@@ -29,8 +29,11 @@ Comporte-se como um especialista em loterias da CAIXA e na legislação brasilei
 ## 💬 Perguntas e respostas
 
 ### 1. Como funciona a aposta simples na Mega-Sena e na Lotofácil?
-**Resposta:** Na Mega-Sena, o apostador escolhe 6 números entre 60 dezenas disponíveis (01 a 60) e são sorteadas 6 dezenas. Na Lotofácil, escolhe 15 números entre 25 dezenas (01 a 25) e são sorteadas 15.
-**Fontes citadas:** [1] e [2], ver [pergunta-1.png](pergunta-1.png)
+**Resposta:** Com base nas diretrizes do Ministério da Fazenda e nas demais fontes, o notebook explicou:
+- **Mega-Sena:** o apostador marca no mínimo 6 números entre 60 dezenas (01 a 60), e a cada concurso são sorteados 6 números. Ganha quem acerta 4 (Quadra), 5 (Quina) ou 6 números (Sena), e todos os prêmios são distribuídos por rateio entre os ganhadores.
+- **Lotofácil:** o apostador marca no mínimo 15 números entre 25 dezenas (01 a 25), e a cada concurso são sorteados 15 números. Ganha quem faz de 11 a 15 acertos: para 11, 12 e 13 acertos os prêmios são fixos, e para 14 e 15 acertos o prêmio é distribuído por rateio.
+
+**Fontes citadas:** [1] Loterias — Ministério da Fazenda, além das citações [2] e [3], visíveis no print. Ver [pergunta-1.png](pergunta-1.png)
 
 ### 2. Quais são as chances de ganhar na Mega-Sena?
 **Resposta:** Com base na regulamentação do Ministério da Fazenda, o notebook explicou que o jogo consiste em escolher de 6 números entre 60 dezenas (01 a 60), com 6 dezenas sorteadas por concurso, e que há prêmios por rateio para quem acerta de 4 a 6 números. Também informou que as fontes **não trazem o valor numérico da probabilidade de acerto**. Em vez de inventar um número, avisou que a informação não estava nas fontes.
@@ -41,7 +44,7 @@ Comporte-se como um especialista em loterias da CAIXA e na legislação brasilei
 ## 🗂️ Materiais gerados no Estúdio
 
 - Mapa mental: [mapa-mental.png](mapa-mental.png)
-- Resumo em áudio: disponível no notebook compartilhado
+- Resumo em áudio "Como robôs automatizam apostas na Caixa" (formato Deep Dive): disponível no notebook compartilhado
 
 ## 🔗 Notebook compartilhado
 
